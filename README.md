@@ -1,2 +1,2 @@
 # MicrosoftSpeechRecognition
-Trained models on microdoft speech recognition
+Trained models on microsoft speech recognition
